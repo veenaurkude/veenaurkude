@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi👋, I'm Veena Urkude 
-
 - 💬 Ask me about Front-End, React, Web
 - 📫 How to reach me: veenaurkude10@gmail.com
  
