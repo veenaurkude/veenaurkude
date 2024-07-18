@@ -1,6 +1,4 @@
-## Hi👋, I'm Veena Urkude
 
-### I am a highly motivated and detail-oriented Front-End Developer. Skilled in HTML, CSS, JavaScript and ReactJs, with experience in creating responsive and user-friendly websites. Eager to contributemy skills and knowledge to a challenging and dynamic organization.
 
 <!--
 **veenaurkude/veenaurkude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
