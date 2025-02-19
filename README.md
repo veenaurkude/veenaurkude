@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **veenaurkude10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1URsvrzqDjJyk4L_-jqQFIb95A2EomNHG/view?usp=sharing](https://drive.google.com/file/d/1URsvrzqDjJyk4L_-jqQFIb95A2EomNHG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19pHv0dKSMLEubfELhRTnDp8ZGeTNwTbo/view?usp=sharing](https://drive.google.com/file/d/19pHv0dKSMLEubfELhRTnDp8ZGeTNwTbo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
